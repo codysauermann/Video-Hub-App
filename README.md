@@ -38,6 +38,7 @@ Clone the repository to your personal machine:
 - Navigate to the repository directory on your machine.
 
 Create a new branch by running `git branch <Branch Name>`
+
 Switch to the new branch using `git checkout <Branch Name>`
 
 This branch is where you will make your necessary changes.
